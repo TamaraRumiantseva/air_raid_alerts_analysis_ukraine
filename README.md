@@ -1,2 +1,2 @@
 # Air raid alerts analysis for Ukraibne
-Portfolio of sample data analysis project
+Shiny app for the analysis of the duration and frequency of air raid alerts in Ukraine starting from February 2022 till today.
